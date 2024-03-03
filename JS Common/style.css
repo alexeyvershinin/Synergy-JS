@@ -1,0 +1,9 @@
+.square {
+    border-radius: 0;
+    transition: border-radius 0.5s;
+    cursor: pointer;
+}
+
+.circle {
+    border-radius: 50%;
+}
